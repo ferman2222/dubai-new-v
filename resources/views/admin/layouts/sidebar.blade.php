@@ -11,7 +11,7 @@
             <div class="icon_menu">
                 <i class="ti-layers-alt"></i>
             </div>
-            <span>Əsas səhifə kədff</span>
+            <span>Əsas səhifə kədfffff</span>
         </a>
     </li>
 
